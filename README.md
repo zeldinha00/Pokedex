@@ -1,6 +1,6 @@
 # StarterDex
 
-<p>Acesse o projeto <a href="https://vomoura.github.io/StarterDex/">aqui</a>.</p>
+<p>Acesse o projeto <a href="https://zeldinha00.github.io/Pokedex/">aqui</a>.</p>
 
 ## Descrição
 
